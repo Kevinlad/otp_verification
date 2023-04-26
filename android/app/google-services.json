@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008516790607",
+    "project_id": "signing-cfcbc",
+    "storage_bucket": "signing-cfcbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008516790607:android:ee306f83cddbb1015c2d3a",
+        "android_client_info": {
+          "package_name": "com.example.otp_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008516790607-ee81694qhq72rstj9f4pi3bgrsch1aue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSHl_zFOwF1KhsMzoTNz-jqBsLi3jRTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008516790607-ee81694qhq72rstj9f4pi3bgrsch1aue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
