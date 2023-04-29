@@ -1,16 +1,4 @@
 # otp_verification
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-04-29-12-38-57-46_3a8b967ccb4398acd8ea8b09fd7fb573](https://user-images.githubusercontent.com/89205025/235289425-488313b8-e7c1-4655-82b9-c633cab53613.jpg)    ![Screenshot_2023-04-29-12-41-41-62_3a8b967ccb4398acd8ea8b09fd7fb573](https://user-images.githubusercontent.com/89205025/235289443-aa50268e-aa8c-4284-a3d4-f1d7e44d9ad3.jpg)
+![Screenshot_2023-04-29-12-41-59-13_3a8b967ccb4398acd8ea8b09fd7fb573](https://user-images.githubusercontent.com/89205025/235289456-b317b095-69e1-4818-b2de-ebe4aa7648a9.jpg)    ![Screenshot_2023-04-29-12-42-04-91_3a8b967ccb4398acd8ea8b09fd7fb573](https://user-images.githubusercontent.com/89205025/235289462-098cdc37-d4c8-417b-a173-6b944225dd40.jpg)
